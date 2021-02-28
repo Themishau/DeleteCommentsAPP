@@ -1,2 +1,2 @@
 # DeleteCommentsAPP
-deletes comments of source code in ABL
+deletes comments in ABL source code
